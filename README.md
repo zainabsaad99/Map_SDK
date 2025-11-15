@@ -1,5 +1,7 @@
 # 🌍 Smart Map Assistant – Ollama + OpenStreetMap
 
+📺 Demo Video: [https://youtu.be/KPWtWNJxBhg](https://youtu.be/KPWtWNJxBhg)
+
 This project implements a **local LLM-powered map assistant** capable of:
 
 * Geocoding (place → coordinates)
@@ -165,5 +167,3 @@ This design makes the system:
 # 🎉 Summary
 
 This Smart Map Assistant combines local LLM reasoning with real mapping tools to deliver a lightweight, private, and intelligent geospatial assistant.
-
-
