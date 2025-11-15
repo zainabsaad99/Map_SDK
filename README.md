@@ -1,8 +1,3 @@
-Here is your **updated and improved README**, rewritten to match your **final working version** of the assistant (`assistant.py`).
-Clear, structured, professional, and ready for GitHub.
-
----
-
 # 🌍 Smart Map Assistant – Ollama + OpenStreetMap
 
 This project implements a **local LLM-powered map assistant** capable of:
