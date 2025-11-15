@@ -137,13 +137,6 @@ Find cafes near Central Park
 Give me a travel matrix for Paris, London, Berlin
 ```
 
-### **Repeat Last Command**
-
-```
-again
-repeat
-same
-```
 
 ---
 
